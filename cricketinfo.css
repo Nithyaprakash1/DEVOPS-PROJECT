@@ -4,6 +4,12 @@ body {
     padding: 20px;
 }
 
+img {
+    padding: 30px;
+    align-horizontal: center;
+    border-radius: 30px;
+}
+
 h1 {
     color: red;
     font-size: 36px;
